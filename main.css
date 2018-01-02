@@ -1,0 +1,22 @@
+* {
+	font-family: 'Roboto', sans-serif;
+}
+main {
+	padding-top: 100px;
+
+}
+
+header {
+	background-color: #FF8C00;
+	margin-bottom: 20px;
+}
+header > h1 {
+	margin-top: 0;
+	margin-bottom: 15px;
+}
+
+.card {
+	border: 1px solid #E5E5E5;
+	margin-bottom: 20px;
+
+}
